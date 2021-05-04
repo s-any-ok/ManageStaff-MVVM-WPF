@@ -61,7 +61,7 @@ namespace ManageStaff.View {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/ManageStaff;V1.0.0.0;component/view/messagewindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/ManageStaff;component/view/messagewindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\View\MessageWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

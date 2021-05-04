@@ -77,7 +77,7 @@ namespace ManageStaff.View.ActionWindows {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/ManageStaff;V1.0.0.0;component/view/actionwindows/addpositionwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/ManageStaff;component/view/actionwindows/addpositionwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\View\ActionWindows\AddPositionWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
