@@ -20,7 +20,7 @@
             <TextBlock Text="Surname"/>
             <TextBox Name="SurNameBlock" Text="{Binding UserSurName}"/>
             <TextBlock Text="Phone"/>
-            <TextBox Name="PhoneBlock" PreviewTextInput="PreviewTextInput" Text="{Binding UserPhone}"/>
+            <TextBox Name="PhoneBlock" Text="{Binding UserPhone}"/>
             <TextBlock Text="Position"/>
             <ComboBox ItemsSource="{Binding AllPositions}"
                       DisplayMemberPath="Name"
