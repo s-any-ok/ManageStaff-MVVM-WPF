@@ -1,4 +1,11 @@
 ﻿
 
-FD:\ManageStaff\ManageStaff\MainWindow.xaml;;
+FD:\ManageStaff\ManageStaff\View\ActionWindows\AddDepartmentWindow.xaml;;
+FD:\ManageStaff\ManageStaff\View\ActionWindows\AddPositionWindow.xaml;;
+FD:\ManageStaff\ManageStaff\View\ActionWindows\AddUserWindow.xaml;;
+FD:\ManageStaff\ManageStaff\View\ActionWindows\EditDepartmentWindow.xaml;;
+FD:\ManageStaff\ManageStaff\View\ActionWindows\EditPositionWindow.xaml;;
+FD:\ManageStaff\ManageStaff\View\ActionWindows\EditUserWindow.xaml;;
+FD:\ManageStaff\ManageStaff\View\MainWindow.xaml;;
+FD:\ManageStaff\ManageStaff\View\MessageWindow.xaml;;
 

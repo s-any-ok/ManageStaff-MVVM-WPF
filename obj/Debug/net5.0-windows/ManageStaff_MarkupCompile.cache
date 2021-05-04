@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET5_0;NETCOREAPP
 D:\ManageStaff\ManageStaff\App.xaml
-11407045341
+8-530141952
 
-3-1233169557
+15-350916701
 193-1891726104
-MainWindow.xaml;
+View\ActionWindows\AddDepartmentWindow.xaml;View\ActionWindows\AddPositionWindow.xaml;View\ActionWindows\AddUserWindow.xaml;View\ActionWindows\EditDepartmentWindow.xaml;View\ActionWindows\EditPositionWindow.xaml;View\ActionWindows\EditUserWindow.xaml;View\MainWindow.xaml;View\MessageWindow.xaml;
 
 True
 
